@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub 项目发布"
+  short_description: "根据项目实际特点，快速生成简洁、有亮点的 README 与 GitHub 发布材料"
+  default_prompt: "使用 $github-launch，先阅读当前项目，再根据真实功能和目标读者编排简洁、有亮点的 README 与 GitHub 发布材料。"
